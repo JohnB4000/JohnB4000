@@ -1,4 +1,4 @@
-- Currently a 3nd Year Student studying MEng Software Engineering at Heriot-Watt University
+- 4th Year Student studying MEng Software Engineering at Heriot-Watt University
 - Head of Software at HWRacing, the Heriot-Watt's Formula Student Team
 - Interested in
   - Embedded Software
